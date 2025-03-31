@@ -5,13 +5,13 @@ A modern, scalable folder structure for Next.js applications, based on best prac
 ## Installation
 
 ```bash
-npm install nextjs-folder-structure-boilerplate
+npm install nextjs-folder-structure-2025
 ```
 
 Or with yarn:
 
 ```bash
-yarn add nextjs-folder-structure-boilerplate
+yarn add nextjs-folder-structure-2025
 ```
 
 The package automatically creates the folder structure in your project when installed and then removes itself from your dependencies. No CLI or additional commands needed.

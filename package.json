@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-folder-structure-boilerplate",
+  "name": "nextjs-folder-structure-2025",
   "version": "1.0.0",
   "description": "A modern, scalable Next js folder structure for building apps in 2025",
   "main": "index.js",
@@ -18,6 +18,6 @@
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^11.2.0",
-    "nextjs-folder-structure-boilerplate": "^1.0.0"
+    "nextjs-folder-structure-2025": "^1.0.0"
   }
 }
