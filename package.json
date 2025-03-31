@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-folder-structure-boilerplate",
+  "version": "1.0.0",
+  "description": "A modern, scalable Next js folder structure for building apps in 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node index.js"
+  },
+  "keywords": [
+    "nextjs",
+    "folder-structure",
+    "react",
+    "template",
+    "scaffolding"
+  ],
+  "author": "Abdur Rahman",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
