@@ -5,16 +5,16 @@ A modern, scalable folder structure for Next.js applications, based on best prac
 ## Installation
 
 ```bash
-npm install nextjs-structure
+npm install nextjs-folder-structure-boilerplate
 ```
 
 Or with yarn:
 
 ```bash
-yarn add nextjs-structure
+yarn add nextjs-folder-structure-boilerplate
 ```
 
-The package automatically creates the folder structure in your project when installed. No CLI or additional commands needed.
+The package automatically creates the folder structure in your project when installed and then removes itself from your dependencies. No CLI or additional commands needed.
 
 ## Generated Structure
 
@@ -49,6 +49,12 @@ The package creates the following folder structure:
   ├── .eslintrc.json      # (Empty file)
   └── next.config.js      # (Empty file)
 ```
+
+## How it Works
+
+1. When installed, the package creates the complete folder structure in your project
+2. After successful creation, it automatically removes itself from your dependencies
+3. No leftover dependencies or unused packages in your project
 
 ## Why This Structure?
 

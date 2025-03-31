@@ -17,6 +17,7 @@
   "author": "Abdur Rahman",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "^11.2.0"
+    "fs-extra": "^11.2.0",
+    "nextjs-folder-structure-boilerplate": "^1.0.0"
   }
 }
